@@ -1,5 +1,5 @@
 # JMeter Sitemap iteration
-
+This scipt/file will go through a sitemap and call all URLs set in the <url><loc></loc></url> tags. It can be used to warm up a cache or to check the status of all indexed URLs in your sitemap.
 
 ## Installation
 
